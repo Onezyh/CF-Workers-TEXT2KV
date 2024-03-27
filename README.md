@@ -1,6 +1,6 @@
-# 优选订阅生成器 WorkerVless2sub
+# 优选订阅生成器 SpeedST-Vless-TXT-USB
 
-### 全新的通过 Cloudflare Workers 搭建VLESS 节点，自动生成优选线路订阅内容生成器
+### 全新的通过 Cloudflare Pages搭建测速/在线文本储存器以及节点订阅器
 
 **Telegram交流群：[@OneZyhCN](https://t.me/OneZyhCN)    Telegram全能搜索：[@BingCN](https://t.me/BingCN)**
 
