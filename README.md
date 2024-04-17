@@ -1,4 +1,4 @@
-# 优选订阅生成器 SpeedST-Vless-TXT-USB
+# 在线文本文件储存器 CF-Workers-TEXT2KV
 
 ### 全新的通过 Cloudflare Pages搭建测速/在线文本储存器以及节点订阅器
 
